@@ -8,3 +8,12 @@ Power BI, developed by Microsoft, is a leading business intelligence tool that t
 
 ### [Global-Retail-Market-Trends-and-Insights-2024-Overview](https://github.com/DrAdnanFarzandAli/Global-Retail-Market-Trends-and-Insights-2024-Overview)
 **Description:** The Global Retail Market Trends and Insights 2024 Overview provides a detailed analysis of key trends shaping retail industry, including shift to e-commerce, tech integration, sustainability, and omnichannel strategies. It examines market growth, inflation impacts, and regional dynamics, offering actionable insights for businesses and investors.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- **Email:** [dradnanfarzandali@gmail.com](mailto:dradnanfarzandali@gmail.com)
+- **LinkedIn:** [Dr. Adnan Farzand Ali (PhD)](https://www.linkedin.com/in/dradnanfarzandali)
+
+Thank you for visiting my Power Bi Projects repository!
